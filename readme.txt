@@ -1,1 +1,1 @@
-I am just a dummy file
+I am just a dummy file and i am helping in understanding in git.
